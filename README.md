@@ -8,4 +8,4 @@
 -   Neo4j Database : the database we will use for storing and manipulating our application
     data
 
-    <img src="/src/assets/images/RGAN.png" width="600" height="400">
+    <img src="/src/assets/images/RGAN2.png" width="600" height="275">
