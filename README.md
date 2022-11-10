@@ -8,4 +8,4 @@
 -   Neo4j Database : the database we will use for storing and manipulating our application
     data
 
-    ![]("/src/assets/images/RGAN.png")
+    ![General plan](/src/assets/images/RGAN.png)
